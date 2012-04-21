@@ -1,0 +1,13 @@
+--- This file is part of LuaDist project
+
+name = "redis"
+version = "2.4.11"
+
+desc = "Advanced key-value store."
+author = "Salvatore Sanfilippo"
+license = "BSD"
+url = "http://redis.io/"
+maintainer = "David Manura"
+
+depends = {
+}
